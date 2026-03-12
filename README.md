@@ -1,7 +1,7 @@
 # QQ 农场多账号挂机 + Web 面板
 
 - 基于 Node.js 的 QQ 农场自动化工具，支持多账号管理、Web 控制面板、实时日志与数据分析。
-- 基于[XyhTender/qq-farm-automation-bot]（https://github.com/XyhTender/qq-farm-automation-bot）项目二开
+- 基于[XyhTender/qq-farm-bot-ui](https://github.com/XyhTender/qq-farm-automation-bot))项目二开
 - 感谢[Penty-d/qq-farm-bot-ui](https://github.com/Penty-d/qq-farm-bot-ui)部分代码
 - 感谢[wjnnone/qq-farm-bot](https://github.com/wjnnone/qq-farm-bot)部分代码，感谢wjnnone！
 - 感谢[sulimu2/qq-farm-bot](https://github.com/sulimu2/qq-farm-bot)大佬提供的新版协议思路
@@ -35,9 +35,15 @@
 
 ## 功能特性
 ### 功能截图
-<img src="https://picui.ogmua.cn/s1/2026/03/08/69ad4e2b4a55b.webp"  alt="图片失效"/>
-<img src="https://picui.ogmua.cn/s1/2026/03/08/69ad4e2b4b222.webp"  alt="图片失效"/>
-<img src="https://picui.ogmua.cn/s1/2026/03/09/69aecda38dabc.webp"  alt="图片失效"/>
+![功能1](https://github.com/user-attachments/assets/47c3ef66-28e6-4433-868c-164b93eb5202)
+![功能2](https://github.com/user-attachments/assets/2c2c9cd1-3ff2-421c-809f-a5294a771909)
+![功能3](https://github.com/user-attachments/assets/f3111614-028c-460d-89b8-be0db58ba677)
+<img width="1731" height="865" alt="功能4" src="https://github.com/user-attachments/assets/fe23dee9-709e-4c7d-ae74-14b496ded935" />
+![功能5](https://github.com/user-attachments/assets/270fb368-044b-47a1-82c2-cb6624345cd6)
+![功能6](https://github.com/user-attachments/assets/0d8d870d-e850-4fb2-929d-b562fc6ceebc)
+![功能7](https://github.com/user-attachments/assets/aa6d7779-6c25-491b-855a-c8c1395988d4)
+
+
 
 ### 多账号管理
 - 账号新增、编辑、删除、启动、停止
