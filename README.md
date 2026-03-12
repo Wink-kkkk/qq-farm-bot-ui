@@ -8,6 +8,8 @@
 - 感谢[DeepFal/qq-farm-bot](https://github.com/DeepFal/qq-farm-bot-ui)大佬提供的背包物品种植和好友思路
 - 更新优化日志详见update.log 感谢支持，喜欢的点一个start吧！
 - 默认账号密码都是admin，端口3007
+- 因作者纯小白文件太大不清楚怎么上传，想体验的自己到下面链接下载获取
+- 蓝奏云：https://wwbur.lanzoul.com/b019vqgjnc 密码:6sxi
 
 
 **后端**
