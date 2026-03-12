@@ -1,8 +1,9 @@
 # QQ 农场多账号挂机 + Web 面板
 
 - 基于 Node.js 的 QQ 农场自动化工具，支持多账号管理、Web 控制面板、实时日志与数据分析。
-- 基于[Penty-d/qq-farm-bot-ui](https://github.com/Penty-d/qq-farm-bot-ui)项目二开
-- 参考[wjnnone/qq-farm-bot](https://github.com/wjnnone/qq-farm-bot)部分代码，感谢wjnnone！
+- 基于[XyhTender/qq-farm-automation-bot]（https://github.com/XyhTender/qq-farm-automation-bot）项目二开
+- 感谢[Penty-d/qq-farm-bot-ui](https://github.com/Penty-d/qq-farm-bot-ui)部分代码
+- 感谢[wjnnone/qq-farm-bot](https://github.com/wjnnone/qq-farm-bot)部分代码，感谢wjnnone！
 - 感谢[sulimu2/qq-farm-bot](https://github.com/sulimu2/qq-farm-bot)大佬提供的新版协议思路
 - 感谢[DeepFal/qq-farm-bot](https://github.com/DeepFal/qq-farm-bot-ui)大佬提供的背包物品种植和好友思路
 - 建议自己拉项目部署，没有测试过打包的Windows端和Mac端，docker后续整！
